@@ -64,4 +64,4 @@ The application should now be accessible at `http://localhost:8501`.
 * Ghulam Abbas
 * Adeena Khudadad
 * Abdur Rahman
-* Ryyan
+* Ryyan Abdullah
